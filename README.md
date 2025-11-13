@@ -9,7 +9,9 @@ I'm also interested in working for projects that need developers, quality tester
 ## Skills 
 
 Languages: Python, C#, Javascript, HTML, CSS, Swift, Java, React.js, Next.js and Cloud Databases(Firebase)
+
 Database: MySQL, MongoDB, PostgreSQL
+
 Tools: Microsoft Power BI & Excel
 
 
