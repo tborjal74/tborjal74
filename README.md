@@ -1,4 +1,7 @@
-## Hi there 👋
+## Terence B.  
+
+I'm a graduating student at BYU-Idaho pursuing a Bachelor's Degreee in Software Development. I love learning new things and understanding how it works. 
+
 
 <!--
 **tborjal74/tborjal74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
